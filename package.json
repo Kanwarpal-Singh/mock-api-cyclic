@@ -1,0 +1,23 @@
+{
+  "name": "mock-api-cyclic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"json-server --watch ./database/db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kanwarpal-Singh/mock-api-cyclic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kanwarpal-Singh/mock-api-cyclic/issues"
+  },
+  "homepage": "https://github.com/Kanwarpal-Singh/mock-api-cyclic#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

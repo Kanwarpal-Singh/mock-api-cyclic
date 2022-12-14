@@ -1,0 +1,37 @@
+{
+    "user":[
+        {
+            "id": 1,
+            "username": "admin",
+            "firstname": "Ad",
+            "lastname": "Minister",
+            "email": "admin@mail.com",
+            "password": "$2b$10$UNqGqmOvwUvrwpxYa5FAM.UuV8nIGN1tJ2UhEeQ8JNAoth7EEayUG",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/54.jpg",
+            "userLevel": 1,
+            "createdAt": 0
+          },
+          {
+            "id": 2,
+            "username": "Kanwarpal",
+            "firstname": "Kanwarpal",
+            "lastname": "Singh",
+            "email": "Jeff.Schaden@hotmail.com",
+            "password": "$2b$10$rmsM54Z70DeufkvS3MQi.evLiCDfrRM6BYmIAhHYaltz9Vgxh5fr.",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/724.jpg",
+            "userLevel": 4,
+            "createdAt": 1667963544097
+          },
+          {
+            "id": 3,
+            "username": "SarathKumar",
+            "firstname": "Sharath",
+            "lastname": "Kumar",
+            "email": "Dayana.Moore@yahoo.com",
+            "password": "$2b$10$Xm3LLYr77N2Yo7wOhS1J9OzyXXNjMqs/fSufoieKDwLE78OZ258z2",
+            "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1162.jpg",
+            "userLevel": 3,
+            "createdAt": 1667963544153
+          }
+    ]
+}
